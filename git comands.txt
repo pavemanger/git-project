@@ -51,3 +51,36 @@ git branch -v /* просмотр веток c комитами
 git branch new_f2 /* создание без переключения на новую ветку
 
 git checkout <имя ветки> /*переключение в ветках
+
+скачать и установить kdiff3
+git config --global mergetool.kdiff3.cmd '"D:\\Program Files\\KDiff3\kdiff3' $BASE $LOCAL $REMOTE -o $MERGED'
+
+git config global merge.tool kdiff3 /*утилита для решения конфликтов
+
+git merge master /*мы находимся в ветке new_f и мержим к себе master сначала
+
+git merge tool /* запуск утилиты конфликтов
+
+GIT REMOTE ADD ORIGIN http: \* ссылка на репозиторий
+
+git remote -v /*просмотр ссылок на репозитарии
+
+git push -u(по умолчанию пушит в мастер) origin master/* отправка в репозиторий
+
+##################набиваем руку#########################
+git status
+/*изменяем любой файл/
+
+git add <file name>
+
+git commit -m"github"
+
+git push
+
+git fetch /*загрузка изменений в папку .git но не в файлы
+git pull /*загрузка измений в файлы к себе
+
+
+
+
+
