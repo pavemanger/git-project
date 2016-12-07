@@ -1,0 +1,99 @@
+
+
+
+
+http://hack-pro.ru/soft/programmy-dlya-raboty-s-sql/----------------хакерский сайт
+
+##################################################################
+
+скачать http analyze
+
+http://www.cssdesk.com/--------------визуальный редактор
+
+
+
+http://filyanin.ru/8-vizualnyy-HTML-onlayn-redaktor.html  --------------- визуальный редактор
+
+###########################################################
+
+fiddler---https://www.youtube.com/watch?v=RXBe4bgjktA
+
+fiddler как работать
+https://www.youtube.com/watch?v=RXBe4bgjktA
+####################################################
+
+developer tools\
+https://www.youtube.com/watch?v=uNJI3iYO-m
+обязательно
+http://ruseller.com/lessons.php?id=1683
+############################################################
+firebug полно в youtube
+
+https://www.youtube.com/watch?v=o0_mAUXPLBY 
+https://www.youtube.com/watch?v=tFyl8m3V_ps
+
+#########################################################
+баранцев смотреть все
+https://www.youtube.com/user/abarancev/videos
+
+посмотреть
+https://www.youtube.com/user/MrSedrikus/videos
+###################################################
+
+как работать с git
+https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g
+https://www.youtube.com/watch?v=e4N2iuvTfFM&list=PLk1oPQ5FsFdmIlzW_Ru4SXmNqDFmbb6xs
+#################################################
+аналоги thung,ab,siege
+установка jemeter
+http://evgmoskalenko.com/testing/install-java-jmeter.html
+
+как работать jemeter
+https://www.youtube.com/watch?v=tnqYp-uTE7s&list=PLw4R-mlOPhj-VFQKHFUEpD0gMt7BMXsRk
+jemeter-plugins.org
+#######################################################
+
+вход в jira
+https://jira.atlassian.com/
+
+как работать в jira
+https://www.youtube.com/watch?v=yYLaL9h2UaU
+###########################################################
+
+http://bugscatcher.net читать там все про тессты и с#
+
+##################################################################
+попробовать imacros
+http://sonikelf.ru/avtomatiziruem-lyubye-dejstviya-v-internete-do-odnogo-klika-imacros-dlya-firefox-nechto-bolshee-chem-prosto-plagin/
+
+######################################################
+jenkins
+https://www.youtube.com/watch?v=b9DjWDwIyPA
+
+#########################################
+https://slgarik.wordpress.com/2012/12/14/%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d1%8b-selenium-ide/
+
+#############################################
+почитать про тест-план
+http://software-testing.ru/forum/index.php?/topic/31705-plan-testirovaniia/
+######################################################
+c# В ООП
+https://tproger.ru/translations/diving-in-oop-p3/
+https://itvdn.com/ru/video/csharp-essential
+обучение 
+https://www.youtube.com/watch?v=LeKfvXJUf34
+
+#####################################
+backtrack
+http://backtrack.flybb.ru/topic13.html
+установка прог http://proubuntu.com.ua/2012/03/17/backtrack-apps-install-ubuntu.html
+
+
+#################################
+много по програмированию
+https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g
+
+
+###########################проги по тестированию поискать ####################################
+http://testmatick.com/pilot-project/
+
