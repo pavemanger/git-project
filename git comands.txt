@@ -61,7 +61,7 @@ git merge master /*мы находимся в ветке new_f и мержим к себе master сначала
 
 git merge tool /* запуск утилиты конфликтов
 
-GIT REMOTE ADD ORIGIN http: \* ссылка на репозиторий
+GIT REMOTE ADD ORIGIN  https://klimatinua@bitbucket.org/klimatinua/klimat.git \* ссылка на репозиторий
 
 git remote -v /*просмотр ссылок на репозитарии
 
