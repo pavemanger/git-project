@@ -101,3 +101,7 @@ http://testmatick.com/pilot-project/
 ###############################по c#  ###############################
 http://cybern.ru/
 geekbrains
+
+
+##################################ссылка на ui testing ##############
+http://www.slideshare.net/ISsoft/ui-28152427
