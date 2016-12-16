@@ -105,3 +105,4 @@ geekbrains
 
 ##################################ссылка на ui testing ##############
 http://www.slideshare.net/ISsoft/ui-28152427
+desctop http://blog.qapl.ru/4-ways-to-automate-qt/
