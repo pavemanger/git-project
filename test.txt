@@ -2,68 +2,68 @@
 
 
 
-http://hack-pro.ru/soft/programmy-dlya-raboty-s-sql/----------------хакерский сайт
+http://hack-pro.ru/soft/programmy-dlya-raboty-s-sql/----------------ГµГ ГЄГҐГ°Г±ГЄГЁГ© Г±Г Г©ГІ
 
 ##################################################################
 
-скачать http analyze
+Г±ГЄГ Г·Г ГІГј http analyze
 
-http://www.cssdesk.com/--------------визуальный редактор
+http://www.cssdesk.com/--------------ГўГЁГ§ГіГ Г«ГјГ­Г»Г© Г°ГҐГ¤Г ГЄГІГ®Г°
 
 
 
-http://filyanin.ru/8-vizualnyy-HTML-onlayn-redaktor.html  --------------- визуальный редактор
+http://filyanin.ru/8-vizualnyy-HTML-onlayn-redaktor.html  --------------- ГўГЁГ§ГіГ Г«ГјГ­Г»Г© Г°ГҐГ¤Г ГЄГІГ®Г°
 
 ###########################################################
 
 fiddler---https://www.youtube.com/watch?v=RXBe4bgjktA
 
-fiddler как работать
+fiddler ГЄГ ГЄ Г°Г ГЎГ®ГІГ ГІГј
 https://www.youtube.com/watch?v=RXBe4bgjktA
 ####################################################
 
 developer tools\
 https://www.youtube.com/watch?v=uNJI3iYO-m
-обязательно
+Г®ГЎГїГ§Г ГІГҐГ«ГјГ­Г®
 http://ruseller.com/lessons.php?id=1683
 ############################################################
-firebug полно в youtube
+firebug ГЇГ®Г«Г­Г® Гў youtube
 
 https://www.youtube.com/watch?v=o0_mAUXPLBY 
 https://www.youtube.com/watch?v=tFyl8m3V_ps
 
 #########################################################
-баранцев смотреть все
+ГЎГ Г°Г Г­Г¶ГҐГў Г±Г¬Г®ГІГ°ГҐГІГј ГўГ±ГҐ
 https://www.youtube.com/user/abarancev/videos
 
-посмотреть
+ГЇГ®Г±Г¬Г®ГІГ°ГҐГІГј
 https://www.youtube.com/user/MrSedrikus/videos
 ###################################################
 
-как работать с git
+ГЄГ ГЄ Г°Г ГЎГ®ГІГ ГІГј Г± git
 https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g
 https://www.youtube.com/watch?v=e4N2iuvTfFM&list=PLk1oPQ5FsFdmIlzW_Ru4SXmNqDFmbb6xs
 #################################################
-аналоги thung,ab,siege
-установка jemeter
+Г Г­Г Г«Г®ГЈГЁ thung,ab,siege
+ГіГ±ГІГ Г­Г®ГўГЄГ  jemeter
 http://evgmoskalenko.com/testing/install-java-jmeter.html
 
-как работать jemeter
+ГЄГ ГЄ Г°Г ГЎГ®ГІГ ГІГј jemeter
 https://www.youtube.com/watch?v=tnqYp-uTE7s&list=PLw4R-mlOPhj-VFQKHFUEpD0gMt7BMXsRk
 jemeter-plugins.org
 #######################################################
 
-вход в jira
+ГўГµГ®Г¤ Гў jira
 https://jira.atlassian.com/
 
-как работать в jira
+ГЄГ ГЄ Г°Г ГЎГ®ГІГ ГІГј Гў jira
 https://www.youtube.com/watch?v=yYLaL9h2UaU
 ###########################################################
 
-http://bugscatcher.net читать там все про тессты и с#
+http://bugscatcher.net Г·ГЁГІГ ГІГј ГІГ Г¬ ГўГ±ГҐ ГЇГ°Г® ГІГҐГ±Г±ГІГ» ГЁ Г±#
 
 ##################################################################
-попробовать imacros
+ГЇГ®ГЇГ°Г®ГЎГ®ГўГ ГІГј imacros
 http://sonikelf.ru/avtomatiziruem-lyubye-dejstviya-v-internete-do-odnogo-klika-imacros-dlya-firefox-nechto-bolshee-chem-prosto-plagin/
 
 ######################################################
@@ -74,33 +74,40 @@ https://www.youtube.com/watch?v=b9DjWDwIyPA
 https://slgarik.wordpress.com/2012/12/14/%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d1%8b-selenium-ide/
 
 #############################################
-почитать про тест-план
+ГЇГ®Г·ГЁГІГ ГІГј ГЇГ°Г® ГІГҐГ±ГІ-ГЇГ«Г Г­
 http://software-testing.ru/forum/index.php?/topic/31705-plan-testirovaniia/
 ######################################################
-c# В ООП
+c# Г‚ ГЋГЋГЏ
 https://tproger.ru/translations/diving-in-oop-p3/
 https://itvdn.com/ru/video/csharp-essential
-обучение 
+Г®ГЎГіГ·ГҐГ­ГЁГҐ 
 https://www.youtube.com/watch?v=LeKfvXJUf34
 
 #####################################
 backtrack
 http://backtrack.flybb.ru/topic13.html
-установка прог http://proubuntu.com.ua/2012/03/17/backtrack-apps-install-ubuntu.html
+ГіГ±ГІГ Г­Г®ГўГЄГ  ГЇГ°Г®ГЈ http://proubuntu.com.ua/2012/03/17/backtrack-apps-install-ubuntu.html
 
 
 #################################
-много по програмированию
+Г¬Г­Г®ГЈГ® ГЇГ® ГЇГ°Г®ГЈГ°Г Г¬ГЁГ°Г®ГўГ Г­ГЁГѕ
 https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g
 
 
-###########################проги по тестированию поискать ####################################
+###########################ГЇГ°Г®ГЈГЁ ГЇГ® ГІГҐГ±ГІГЁГ°Г®ГўГ Г­ГЁГѕ ГЇГ®ГЁГ±ГЄГ ГІГј ####################################
 http://testmatick.com/pilot-project/
 
 
-###############################по c#  ###############################
+###############################ГЇГ® c#  ###############################
 http://cybern.ru/
 geekbrains
 
 ############################################
 ##############################################
+http://ruseller.com/lessons.php?rub=28&id=1209  РїСЂРѕРІРµСЂРєР° РєСЂРѕСЃР±СЂР°Р№Р·РµСЂРЅРѕСЃС‚Рё
+http://blog.qapl.ru/4-ways-to-automate-qt/  Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ gui
+######################РѕС‚Р»Р°РґРєР° js#####################
+https://learn.javascript.ru/debugging-chrome
+http://webtun.com/webmaster/4398-15-websites-to-test-your-codes-online.html
+http://iantonov.me/page/uchimsja-testirovat-svoj-javascript-kod
+
