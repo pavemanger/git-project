@@ -116,6 +116,8 @@ http://software-testing.ru/forum/index.php?/topic/29302-shablony-test-kejsov-dli
 
 #######################test javascript QUnit#############################
 https://habrahabr.ru/post/83170/
+##################################################test
+http://blog.shumoos.com/
 
 
 #########################################blogs +++
