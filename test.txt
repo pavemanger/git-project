@@ -118,3 +118,6 @@ http://software-testing.ru/forum/index.php?/topic/29302-shablony-test-kejsov-dli
 https://habrahabr.ru/post/83170/
 
 
+#########################################blogs +++
+http://iqa.com.ua/testcase/TCMLite
+
