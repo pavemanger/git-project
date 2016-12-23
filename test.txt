@@ -1,6 +1,7 @@
 ######################security test traning
 https://habrahabr.ru/post/250551/
 https://habrahabr.ru/company/simplepay/blog/258499/
+https://habrahabr.ru/company/defconru/blog/303700/
 
 
 
