@@ -2,10 +2,10 @@
 https://habrahabr.ru/post/250551/
 https://habrahabr.ru/company/simplepay/blog/258499/
 https://habrahabr.ru/company/defconru/blog/303700/
+area for testing security #####
+http://n1cesecurity.blogspot.com/2015/11/Ustanovka-nastroyka-ploschadok-dlya-testirovaniya-web-uyazvimostey.html
+##########
 
-backtrack?
-kali?
-cyborg ubuntu?
 
 
 
