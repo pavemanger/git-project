@@ -8,11 +8,15 @@ http://n1cesecurity.blogspot.com/2015/11/Ustanovka-nastroyka-ploschadok-dlya-tes
 ##########
 automatization all
 http://forworktests.blogspot.com/2013/03/jmeter.html
+
+####################################tests for c##################################
+http://software-testing.ru/forum/index.php?/topic/22968-c-dlja-selenium-webdriver/
+https://habrahabr.ru/post/178321/
    
 ############################################WIN 10 SSD##############
 http://itkompik.ru/poleznye-sovety/optimizaciya-ssd.html
 
-
+###################################################################
 
 http://hack-pro.ru/soft/programmy-dlya-raboty-s-sql/----------------hacker site
 
@@ -20,11 +24,8 @@ http://hack-pro.ru/soft/programmy-dlya-raboty-s-sql/----------------hacker site
 
 ñêà÷àòü http analyze
 
-http://www.cssdesk.com/--------------âèçóàëüíûé ðåäàêòîð
-
-
-
-http://filyanin.ru/8-vizualnyy-HTML-onlayn-redaktor.html  --------------- âèçóàëüíûé ðåäàêòîð
+http://www.cssdesk.com/--------------edit css/html code
+http://filyanin.ru/8-vizualnyy-HTML-onlayn-redaktor.html  --------------- html code edit
 
 ###########################################################
 
@@ -116,7 +117,7 @@ geekbrains
 
 ############################################
 ##############################################
-http://ruseller.com/lessons.php?rub=28&id=1209  проверка кросбрайзерности
+http://ruseller.com/lessons.php?rub=28&id=1209  проверка кросбраузерности
 http://blog.qapl.ru/4-ways-to-automate-qt/  автоматизация gui
 ######################отладка js#####################
 https://learn.javascript.ru/debugging-chrome
