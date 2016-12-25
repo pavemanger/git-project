@@ -136,3 +136,10 @@ http://blog.shumoos.com/
 #########################################blogs +++
 http://iqa.com.ua/testcase/TCMLite
 
+
+################################################Maven+TestNG+Webdriver##########################
+http://automated-testing.info/t/razbiraemsya-v-zapuske-testov-v-jenkins-maven-testng-webdriver-na-java-ili-tutorial-novichka/1901
+#################################################jenkins###################################
+https://www.ibm.com/developerworks/ru/library/d-continuous-delivery-framework-jenkins/d-continuous-delivery-framework-jenkins-pdf.pdf
+
+
