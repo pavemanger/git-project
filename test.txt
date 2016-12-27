@@ -5,9 +5,16 @@ https://habrahabr.ru/company/defconru/blog/303700/
 https://habrahabr.ru/post/125206/
 area for testing security #####
 http://n1cesecurity.blogspot.com/2015/11/Ustanovka-nastroyka-ploschadok-dlya-testirovaniya-web-uyazvimostey.html
-##########
+##########  jmetre and other########################
 automatization all
 http://forworktests.blogspot.com/2013/03/jmeter.html
+àíàëîãè thung,ab,siege
+óñòàíîâêà jemeter
+http://evgmoskalenko.com/testing/install-java-jmeter.html
+
+ jemeter
+https://www.youtube.com/watch?v=tnqYp-uTE7s&list=PLw4R-mlOPhj-VFQKHFUEpD0gMt7BMXsRk
+jemeter-plugins.org
 
 ####################################tests for c##################################
 http://software-testing.ru/forum/index.php?/topic/22968-c-dlja-selenium-webdriver/
@@ -57,13 +64,7 @@ https://www.youtube.com/user/MrSedrikus/videos
 https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g
 https://www.youtube.com/watch?v=e4N2iuvTfFM&list=PLk1oPQ5FsFdmIlzW_Ru4SXmNqDFmbb6xs
 #################################################
-àíàëîãè thung,ab,siege
-óñòàíîâêà jemeter
-http://evgmoskalenko.com/testing/install-java-jmeter.html
 
-êàê ðàáîòàòü jemeter
-https://www.youtube.com/watch?v=tnqYp-uTE7s&list=PLw4R-mlOPhj-VFQKHFUEpD0gMt7BMXsRk
-jemeter-plugins.org
 #######################################################
 
 âõîä â jira
@@ -141,5 +142,8 @@ http://iqa.com.ua/testcase/TCMLite
 http://automated-testing.info/t/razbiraemsya-v-zapuske-testov-v-jenkins-maven-testng-webdriver-na-java-ili-tutorial-novichka/1901
 #################################################jenkins###################################
 https://www.ibm.com/developerworks/ru/library/d-continuous-delivery-framework-jenkins/d-continuous-delivery-framework-jenkins-pdf.pdf
+
+###################### skype translator ################################
+https://support.skype.com/ru/faq/FA34542/kak-nastroit-i-ispol-zovat-skype-translator
 
 
