@@ -16,6 +16,8 @@ http://evgmoskalenko.com/testing/install-java-jmeter.html
 https://www.youtube.com/watch?v=tnqYp-uTE7s&list=PLw4R-mlOPhj-VFQKHFUEpD0gMt7BMXsRk
 jemeter-plugins.org
 
+http://blog.shumoos.com/archives/98
+
 ####################################tests for c##################################
 http://software-testing.ru/forum/index.php?/topic/22968-c-dlja-selenium-webdriver/
 https://habrahabr.ru/post/178321/
