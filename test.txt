@@ -47,6 +47,10 @@ fiddler---https://www.youtube.com/watch?v=RXBe4bgjktA
 fiddler êàê ðàáîòàòü
 https://www.youtube.com/watch?v=RXBe4bgjktA
 ####################################################
+soap ui
+https://www.soapui.org/functional-testing/getting-started.html
+
+###########developer tools#####################
 
 developer tools\
 https://www.youtube.com/watch?v=uNJI3iYO-m
