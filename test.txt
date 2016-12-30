@@ -36,7 +36,11 @@ http://hack-pro.ru/soft/programmy-dlya-raboty-s-sql/----------------hacker site
 http://www.cssdesk.com/--------------edit css/html code
 http://filyanin.ru/8-vizualnyy-HTML-onlayn-redaktor.html  --------------- html code edit
 
-###########################################################
+##############################################fidler#############
+tutorial
+http://www.mehdi-khalili.com/fiddler-in-action/part-1/
+http://www.mehdi-khalili.com/fiddler-in-action/part-2/
+http://www.telerik.com/fiddler/add-ons ################addons
 
 fiddler---https://www.youtube.com/watch?v=RXBe4bgjktA
 
