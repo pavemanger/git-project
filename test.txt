@@ -48,6 +48,7 @@ fiddler êàê ðàáîòàòü
 https://www.youtube.com/watch?v=RXBe4bgjktA
 ####################################################
 soap ui
+http://proghouse.ru/programming/20-soapui
 https://www.soapui.org/functional-testing/getting-started.html
 
 ###########developer tools#####################
