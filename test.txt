@@ -46,11 +46,11 @@ fiddler---https://www.youtube.com/watch?v=RXBe4bgjktA
 
 fiddler êàê ðàáîòàòü
 https://www.youtube.com/watch?v=RXBe4bgjktA
-####################################################
+####################################################soap ui
 soap ui
 http://proghouse.ru/programming/20-soapui
 https://www.soapui.org/functional-testing/getting-started.html
-
+http://automated-testing.info/t/testirovanie-veb-servisov-s-soapui/2509
 ###########developer tools#####################
 
 developer tools\
