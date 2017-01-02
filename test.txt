@@ -12,7 +12,7 @@ http://forworktests.blogspot.com/2013/03/jmeter.html
 óñòàíîâêà jemeter
 https://rtfm.co.ua/apache-jmeter-nagruzochnoe-testirovanie-veb-servera/
 http://evgmoskalenko.com/testing/install-java-jmeter.html
-
+http://www.sql.ru/forum/538240/jmeter-dokumentaciya
  jemeter
 https://www.youtube.com/watch?v=tnqYp-uTE7s&list=PLw4R-mlOPhj-VFQKHFUEpD0gMt7BMXsRk
 jemeter-plugins.org
