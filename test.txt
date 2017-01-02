@@ -159,4 +159,7 @@ https://www.ibm.com/developerworks/ru/library/d-continuous-delivery-framework-je
 ###################### skype translator ################################
 https://support.skype.com/ru/faq/FA34542/kak-nastroit-i-ispol-zovat-skype-translator
 
+###########################Paje Object############################
+https://kreisfahrer.gitbooks.io/selenium-webdriver/content/page_object_pattern_arhitektura_testovogo_proekta/ispolzovanie_patterna_page_object.html
+
 
