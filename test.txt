@@ -10,6 +10,7 @@ automatization all
 http://forworktests.blogspot.com/2013/03/jmeter.html
 àíàëîãè thung,ab,siege
 óñòàíîâêà jemeter
+https://rtfm.co.ua/apache-jmeter-nagruzochnoe-testirovanie-veb-servera/
 http://evgmoskalenko.com/testing/install-java-jmeter.html
 
  jemeter
