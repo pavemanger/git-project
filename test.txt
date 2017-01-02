@@ -162,4 +162,7 @@ https://support.skype.com/ru/faq/FA34542/kak-nastroit-i-ispol-zovat-skype-transl
 ###########################Paje Object############################
 https://kreisfahrer.gitbooks.io/selenium-webdriver/content/page_object_pattern_arhitektura_testovogo_proekta/ispolzovanie_patterna_page_object.html
 
+#######################selenium ide##################
+http://automated-testing.info/t/selenium-ide/2455
+
 
