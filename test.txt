@@ -165,4 +165,7 @@ https://kreisfahrer.gitbooks.io/selenium-webdriver/content/page_object_pattern_a
 #######################selenium ide##################
 http://automated-testing.info/t/selenium-ide/2455
 
+#####################################selenium tests##########################
+http://selenium2.ru/docs/selenium-rc.html
+
 
