@@ -168,4 +168,9 @@ http://automated-testing.info/t/selenium-ide/2455
 #####################################selenium tests##########################
 http://selenium2.ru/docs/selenium-rc.html
 
+#######################################nunit setup ###################################
+http://deniskucherov.blogspot.com/2013/02/nunit-visual-studio-2012.html
+https://itvdn.com/ru/blog/article/entry-into-nunit
+https://anoopjshetty.wordpress.com/2014/05/
+
 
