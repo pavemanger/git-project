@@ -167,6 +167,8 @@ http://automated-testing.info/t/selenium-ide/2455
 
 #####################################selenium tests##########################
 http://selenium2.ru/docs/selenium-rc.html
+###courses
+http://wiki.margtu.ru/index.php?wakka=HomePage/20122013/magistry2/MPITestirovanie&v=118o
 
 #######################################nunit setup ###################################
 http://deniskucherov.blogspot.com/2013/02/nunit-visual-studio-2012.html
