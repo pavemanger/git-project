@@ -23,7 +23,8 @@ http://blog.shumoos.com/archives/98
 http://software-testing.ru/forum/index.php?/topic/22968-c-dlja-selenium-webdriver/
 https://habrahabr.ru/post/178321/
 https://smarly.net/pro-asp-net-mvc-4/introducing-asp-net-mvc-4/essential-tools-for-mvc/unit-testing-with-visual-studio
-   
+
+http://automated-testing.info/t/pri-zapuske-iz-visual-studio-padaet-test-v-formate-c-kotoryj-otrabatyvaet-v-formate-html-na-selenium-ide/10076
 ############################################WIN 10 SSD##############
 http://itkompik.ru/poleznye-sovety/optimizaciya-ssd.html
 
@@ -174,5 +175,5 @@ http://wiki.margtu.ru/index.php?wakka=HomePage/20122013/magistry2/MPITestirovani
 http://deniskucherov.blogspot.com/2013/02/nunit-visual-studio-2012.html
 https://itvdn.com/ru/blog/article/entry-into-nunit
 https://anoopjshetty.wordpress.com/2014/05/
-
+http://usanov.net/1422-integraciya-nunit-v-visual-studio
 
