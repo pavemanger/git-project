@@ -72,19 +72,16 @@ https://www.youtube.com/user/abarancev/videos
 
 ïîñìîòðåòü
 https://www.youtube.com/user/MrSedrikus/videos
-###################################################
+######################### git ##############
 
-êàê ðàáîòàòü ñ git
 https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g
 https://www.youtube.com/watch?v=e4N2iuvTfFM&list=PLk1oPQ5FsFdmIlzW_Ru4SXmNqDFmbb6xs
 #################################################
 
-#######################################################
+#################### jira  ########################
+https://jira.atlassian.com/secure/Dashboard.jspa
 
-âõîä â jira
-https://jira.atlassian.com/
-
-êàê ðàáîòàòü â jira
+ jira
 https://www.youtube.com/watch?v=yYLaL9h2UaU
 ###########################################################
 
