@@ -174,3 +174,5 @@ https://itvdn.com/ru/blog/article/entry-into-nunit
 https://anoopjshetty.wordpress.com/2014/05/
 http://usanov.net/1422-integraciya-nunit-v-visual-studio
 
+####################checklist web#########################
+https://habrahabr.ru/company/sibirix/blog/223777/
