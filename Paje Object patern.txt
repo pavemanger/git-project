@@ -1,0 +1,14 @@
+#############################-----C#------############################
+https://automatetheplanet.com/page-object-pattern/
+Cheat Sheet
+https://automatetheplanet.com/selenium-webdriver-csharp-cheat-sheet/
+###############################JAVA######################################
+
+https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_intro/webdriver_obzor_i_printsip_raboti.html
+
+http://perfect-test.com/index.php/ru/instruments-rus-menu/15-selenium-plugin-rus
+
+http://www.seleniumeasy.com/selenium-tutorials/simple-page-object-model-framework-example
+
+############################оба №№№№№№№№№№№№№№№№№№№№№№№№
+http://selenium2.ru/docs/webdriver.html
