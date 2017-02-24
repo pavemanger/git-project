@@ -1,0 +1,7 @@
+1. Открыть http://nunit.org/?p=download, скачать NUnit 2.6.0 for win, установить
+2. Открыть http://seleniumhq.org/download/, скачать Selenium Client Driver for C#, распаковать
+3. В VS-проекте обновить/добавить Reference на библиотеки NUnit Framework (dll-ки из C:\Program Files (x86)\NUnit 2.6\bin\framework\)
+4. Добавить Reference на Selenium Webdriver (.net 3.5) 
+5. Скомпилировать проект
+6. Запустить NUnit
+7. Сделать Open Project и найти скомпилированную dll-ку 
