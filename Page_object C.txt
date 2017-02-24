@@ -1,0 +1,119 @@
+#############################-----C#------############################
+https://automatetheplanet.com/page-object-pattern/
+Cheat Sheet
+https://automatetheplanet.com/selenium-webdriver-csharp-cheat-sheet/
+###############################JAVA######################################
+
+https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_intro/webdriver_obzor_i_printsip_raboti.html
+
+http://perfect-test.com/index.php/ru/instruments-rus-menu/15-selenium-plugin-rus
+
+http://www.seleniumeasy.com/selenium-tutorials/simple-page-object-model-framework-example
+
+############################оба №№№№№№№№№№№№№№№№№№№№№№№№
+http://selenium2.ru/docs/webdriver.html
+
+
+
+
+############################ <<PAGE OBJECT C#>>  ##################################
+http://autoqa.org/advanced-webdriver/ispolzovanie-page-object-patterna-selenium-webdriver.html
+
+#############################################################################################
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Support.PageObjects;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PageObjectPattern
+{
+    public class BingMainPage
+    {
+        private readonly IWebDriver driver;
+        private readonly string url = @"http://www.bing.com/";
+
+        public BingMainPage(IWebDriver browser)
+        {
+            this.driver = browser;       
+            this.driver.Manage().Window.Maximize();
+            PageFactory.InitElements(browser, this);
+        }
+
+        [FindsBy(How = How.Id, Using = "sb_form_q")]
+        public IWebElement SearchBox { get; set; }
+
+        [FindsBy(How = How.Id, Using = "sb_form_go")]
+        public IWebElement GoButton { get; set; }
+
+        [FindsBy(How = How.Id, Using = "b_tween")]
+        public IWebElement ResultsCountDiv { get; set; }
+
+        public void Navigate()
+        {
+            this.driver.Navigate().GoToUrl(this.url);
+        }
+
+        public void Search(string textToType)
+        {
+            this.SearchBox.Clear();
+            this.SearchBox.SendKeys(textToType);
+            this.GoButton.Click();
+        }
+
+        public void ValidateResultsCount(string expectedCount)
+        {
+
+           Assert.IsTrue(this.ResultsCountDiv.Text.Contains(expectedCount), "The results DIV doesn't contains the specified text.");
+        }
+    }
+}
+
+#########################################
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Firefox;
+using OpenQA.Selenium.Support.UI;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace PageObjectPattern
+{
+    [TestClass]
+    public class BingTests
+    {
+        public IWebDriver Driver { get; set; }
+        public WebDriverWait Wait { get; set; }
+
+        [TestInitialize]
+        public void SetupTest()
+        {
+            this.Driver = new FirefoxDriver();
+            this.Wait = new WebDriverWait(this.Driver, TimeSpan.FromSeconds(30));
+        }
+
+        [TestCleanup]
+        public void TeardownTest()
+        {
+            this.Driver.Quit();
+        }
+
+        [TestMethod]
+        public void SearchTextInBing()
+        {
+            BingMainPage googleMainPage = new BingMainPage(this.Driver);
+            googleMainPage.Navigate();
+            googleMainPage.Search("автоматизированное тестирование");
+            googleMainPage.ValidateResultsCount("РЕЗУЛЬТАТЫ: 20,700");
+        }
+    }
+}
+##############################################
+
