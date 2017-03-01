@@ -1,0 +1,68 @@
+########################семантическое ядро ##################################
+в гугл аадвордс можно ввести адресс сайта и спарсить ключи 
+
+https://seoprofy.ua/blog/optimizaciya-sajtov/kak-sdelat-semanticheskoe-yadro
+http://www.raskruty.ru/statistika-zaprosov.html
+
+###########################################################################
+Картинки
+http://www.contenton.ru/art/photo-high-quality-free.html
+http://imcreator.com/free/people/i-dont-care
+http://imcreator.com/free/people/poolside
+
+
+
+http://imcreator.com/free/people/today-im-going-to-live-my-life-without-worries-2
+
+############################плагин кроспостинга########################
+зарегистрироваться в соцсетях как glorywoman
+https://akket.com/raznoe/32109-social-networks-auto-poster-luchshee-reshenie-dlya-krosspostinga-v-sotsialnyj-seti.html
+#####################кроспочтинг не через плагин #############################
+http://webdela.ru/blog/fishki/avtomaticheskaya-vygruzka-v-socialnye-seti/
+
+############################плагин подписки в соцсети
+http://www.coolwebmasters.com/wordpress/4930-10-luchshih-wordpress-plaginov-email-podpiski-za-2014-god-platnoe.html
+https://www.templatemonster.com/help/ru/wordpress-how-to-set-up-mailchimp-for-wordpress-lite-plugin.html#gref
+
+############################настройка rss ##########################
+http://ab-w.net/wordpress/kak-sdelat-wordpress-rss-potok-dlja-sajta-nastrojka-feedburner.php
+###########################настройка yaost seo #######################
+https://wpcafe.org/plugins/wordpress-seo-by-yoast/
+http://vysokoff.ru/seo/kak-prodvinut-sajt/vnutrennie-faktory/wordpress-seo-by-yoast-nastrojka.html
+###############################настройка  hyper Cache#######################
+http://goldbusinessnet.com/dvizhok-wordpress/keshirovanie-wordpress-sajt-hyper-cache-nastrojka/
+
+########################seo плагины для WP ###############################
+https://wpcafe.org/plugins/bolshoy-obzor-luchshih-seo-plaginov-dlya-wordpress/
+
+https://semantica.in/blog/luchshie-seo-plaginy-dlya-wordpress-95-effektivnykh-pomoshhnikov.html
+
+##########################проверка уникальност########################
+https://content-watch.ru/api/wordpress/
+mywordpress.ru/plugins/posts-compare
+
+
+##################################настройка WP##########################
+https://wpmag.ru/2014/wordpress-seo/
+
+###############################Добавить пинг адресса#################################
+http://shakin.ru/useful/100-ping-services.html
+www.bestseoblog.ru/spisok-ping-servisov-wordpress/
+
+
+################################оригинальные тексты yandex######################
+https://sheensay.ru/webmaster-yandex-original-text-wordpress
+http://www.lucky-seo.com/cases/original-text-yandex
+https://wp-kama.ru/id_4015/plagin-webmaster-yandex-dlya-wordpress.html
+
+##############################google original##########################
+http://www.lucky-seo.com/cases/google-authorship
+
+#########################плагин резерва ###########################
+https://wpmag.ru/2014/backup-wordpress/
+###############################################################################
+
+
+
+
+
