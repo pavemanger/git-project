@@ -1,5 +1,7 @@
 ########################semantic kernel ##################################
-в гугл аадвордс можно ввести адресс сайта и спарсить ключи 
+We can to write in addwords adress site
+and find key words
+
 
 https://seoprofy.ua/blog/optimizaciya-sajtov/kak-sdelat-semanticheskoe-yadro
 http://www.raskruty.ru/statistika-zaprosov.html
@@ -17,7 +19,8 @@ http://imcreator.com/free/people/today-im-going-to-live-my-life-without-worries-
 ############################plagin crosposting########################
 зарегистрироваться в соцсетях как glorywoman
 https://akket.com/raznoe/32109-social-networks-auto-poster-luchshee-reshenie-dlya-krosspostinga-v-sotsialnyj-seti.html
-#####################кроспочтинг не через плагин #############################
+
+#####################crosposting no use plagin #############################
 http://webdela.ru/blog/fishki/avtomaticheskaya-vygruzka-v-socialnye-seti/
 
 ############################plagin social mail
@@ -26,18 +29,33 @@ https://www.templatemonster.com/help/ru/wordpress-how-to-set-up-mailchimp-for-wo
 
 ############################preferens rss ##########################
 http://ab-w.net/wordpress/kak-sdelat-wordpress-rss-potok-dlja-sajta-nastrojka-feedburner.php
+
+
 ###########################preferens yaost seo #######################
 https://wpcafe.org/plugins/wordpress-seo-by-yoast/
 http://vysokoff.ru/seo/kak-prodvinut-sajt/vnutrennie-faktory/wordpress-seo-by-yoast-nastrojka.html
+
+
 ###############################preferens  hyper Cache#######################
 http://goldbusinessnet.com/dvizhok-wordpress/keshirovanie-wordpress-sajt-hyper-cache-nastrojka/
+
 
 ########################seo plagin WP ###############################
 https://wpcafe.org/plugins/bolshoy-obzor-luchshih-seo-plaginov-dlya-wordpress/
 
 https://semantica.in/blog/luchshie-seo-plaginy-dlya-wordpress-95-effektivnykh-pomoshhnikov.html
+https://semantica.in/blog/wordpress-seo-plaginy-i-sovety-po-prodvizheniyu-i-optimizaczii-sajta.html
 
-##########################проверка уникальност########################
+
+Pfefix for tags (по умолчанию они идут tag) на info или wiki
+
+Google XML Sitemap ##for pictures
+
+Plagiarism Checker
+Keyword Suggestion Tools for WordPress
+SEO Keyword Suggestions by HitTail
+
+##########################unical text########################
 https://content-watch.ru/api/wordpress/
 mywordpress.ru/plugins/posts-compare
 
@@ -64,8 +82,14 @@ https://wpmag.ru/2014/backup-wordpress/
 
 Sites about beautiful
 http://www.milionkobiet.pl
+################################################fonts wp plagin
 
+https://wpcafe.org/plugins/wordpress-typography-plugins/
 
+##########################WordPress plagin fo correct code
+Advanced Code Editor
+########################
+wordpress ultimate tweaker free
 
 
 
